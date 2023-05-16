@@ -1,11 +1,8 @@
-<foreignObject width="100%" height="100%">
-<body>
+![](https://komarev.com/ghpvc/?username=Bump64) 
 
-<h1>My first SVG</h1>
 
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
+### Hello, welcome to My profile! 👋
 
-</body>
-<foreignObject width="100%" height="100%">
+I love coding, especially in Python, HTML and CSS.
+I also love playing video games, and hosting servers on them!
+It is my passion to also stay fit, especially athletics!

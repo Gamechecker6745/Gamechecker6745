@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=Gamechecker6745) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bump64&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=Gamechecker6745)\n
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamechecker6745&show_icons=true&theme=radical)
 
 ### Hello, welcome to Gamechecker6745! 👋
 I code simple projects to learn about all areas of software engineering. 

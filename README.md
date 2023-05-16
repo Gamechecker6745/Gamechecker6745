@@ -1,4 +1,4 @@
-<html>
+<foreignObject width="100%" height="100%">
 <body>
 
 <h1>My first SVG</h1>
@@ -8,4 +8,4 @@
 </svg>
 
 </body>
-</html>
+<foreignObject width="100%" height="100%">
